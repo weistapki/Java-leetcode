@@ -1,4 +1,4 @@
-package org.example.anagram.duplicate;
+package org.example.duplicate;
 
 public class ContainsDuplicate {
     public static void main(String[] args) {

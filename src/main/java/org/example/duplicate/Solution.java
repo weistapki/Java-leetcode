@@ -1,4 +1,4 @@
-package org.example.anagram.duplicate;
+package org.example.duplicate;
 
 import java.util.HashSet;
 

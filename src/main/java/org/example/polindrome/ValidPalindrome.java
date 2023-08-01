@@ -1,4 +1,4 @@
-package org.example.anagram.polindrome;
+package org.example.polindrome;
 
 public class ValidPalindrome {
     public static void main(String[] args) {

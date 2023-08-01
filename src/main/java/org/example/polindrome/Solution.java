@@ -1,4 +1,4 @@
-package org.example.anagram.polindrome;
+package org.example.polindrome;
 
 public class Solution {
     public boolean isPalindrome(String s) {
