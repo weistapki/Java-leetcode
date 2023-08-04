@@ -133,8 +133,65 @@ Input: head = [1,2]
 Output: [2,1]
 Example 3:
 
+---------------------------------
+JEWELS AND STONES
+You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.
+Letters are case sensitive, so "a" is considered a different type of stone from "A".
+Example 1:
+
+Input: jewels = "aA", stones = "aAAbbbb"
+Output: 3
+Example 2:
+
+Input: jewels = "z", stones = "ZZ"
+Output: 0
+
 Input: head = []
 Output: []
+
+-------------------------------
+NUMBER OF GOOD PAIRS
+Given an array of integers nums, return the number of good pairs.
+A pair (i, j) is called good if nums[i] == nums[j] and i < j.
+
+Example 1:
+
+Input: nums = [1,2,3,1,1,3]
+Output: 4
+Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
+Example 2:
+
+Input: nums = [1,1,1,1]
+Output: 6
+Explanation: Each pair in the array are good.
+Example 3:
+
+Input: nums = [1,2,3]
+Output: 0
+
+--------------------------------
+MAXIMUM NUMBER OF BALLONS
+Given a string text, you want to use the characters of text to form as many instances of the word "balloon" as possible.
+You can use each character in text at most once. Return the maximum number of instances that can be formed.
+Example 1:
+
+Input: text = "nlaebolko"
+Output: 1
+Example 2:
+
+Input: text = "loonbalxballpoon"
+Output: 2
+Example 3:
+
+Input: text = "leetcode"
+Output: 0
+
+Constraints:
+
+1 <= text.length <= 104
+text consists of lower case English letters only.
+
+---------------------------------
 
 
 
