@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="added GoodParis">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lengthOfLastWord/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lengthOfLastWord/Solution.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="added Length of Last Word">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/parantheses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/parantheses/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Serhii/IdeaProjects/Java-leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Serhii/IdeaProjects/Java-leetcode/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Serhii/IdeaProjects/Java-leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Serhii/IdeaProjects/Java-leetcode/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.org.example.lengthOfLastWord.Main">
+}</component>
+  <component name="RunManager" selected="Application.org.example.parantheses.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.bestTime.Main" />
       <module name="Java-leetcode" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.sum.TwoSum" />
+    <configuration name="org.example.lengthOfLastWord.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lengthOfLastWord.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.sum.*" />
+          <option name="PATTERN" value="org.example.lengthOfLastWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.lengthOfLastWord.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lengthOfLastWord.Main" />
+    <configuration name="org.example.parantheses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.parantheses.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lengthOfLastWord.*" />
+          <option name="PATTERN" value="org.example.parantheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.parantheses.Main" />
         <item itemvalue="Application.org.example.lengthOfLastWord.Main" />
         <item itemvalue="Application.org.example.reverseLinkedList.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,8 @@
       <workItem from="1691072524973" duration="2062000" />
       <workItem from="1691164969402" duration="919000" />
       <workItem from="1691241838842" duration="343000" />
-      <workItem from="1691766937245" duration="2821000" />
+      <workItem from="1691766937245" duration="3459000" />
+      <workItem from="1691944640510" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691165621637</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added Length of Last Word">
+      <created>1691769814885</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691769814885</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +234,7 @@
     <MESSAGE value="added JewelsAndStones" />
     <MESSAGE value="added Balloon" />
     <MESSAGE value="added GoodParis" />
-    <option name="LAST_COMMIT_MESSAGE" value="added GoodParis" />
+    <MESSAGE value="added Length of Last Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Length of Last Word" />
   </component>
 </project>
