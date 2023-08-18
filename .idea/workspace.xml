@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="added Valid Parentheses">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sameTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sameTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sameTree/TreeNote.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="added Same Tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/countNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/countNumber/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +49,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.sameTree.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.bestTime.Main" />
+  <component name="RunManager" selected="Application.org.example.countNumber.Main">
+    <configuration name="org.example.countNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.countNumber.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.bestTime.*" />
+          <option name="PATTERN" value="org.example.countNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.countNumber.Main" />
         <item itemvalue="Application.org.example.sameTree.Main" />
         <item itemvalue="Application.org.example.parantheses.Main" />
         <item itemvalue="Application.org.example.lengthOfLastWord.Main" />
         <item itemvalue="Application.org.example.reverseLinkedList.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +139,8 @@
       <workItem from="1691241838842" duration="343000" />
       <workItem from="1691766937245" duration="3459000" />
       <workItem from="1691944640510" duration="1867000" />
-      <workItem from="1692112259432" duration="606000" />
+      <workItem from="1692112259432" duration="1019000" />
+      <workItem from="1692374365464" duration="1948000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691945910351</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added Same Tree">
+      <created>1692113142759</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692113142759</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +252,7 @@
     <MESSAGE value="added GoodParis" />
     <MESSAGE value="added Length of Last Word" />
     <MESSAGE value="added Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Valid Parentheses" />
+    <MESSAGE value="added Same Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Same Tree" />
   </component>
 </project>
