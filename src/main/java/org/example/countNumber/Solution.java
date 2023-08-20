@@ -7,15 +7,19 @@ public class Solution {
         int count = 0;
 
         for (int num : nums) {
-            if (num - k >= 1) {
-                count += freq[num - k];
+            int target1 = num - k;
+            int target2 = num + k;
+
+            if (target1 >= 1 && target1 <= 100) {
+                count += freq[target1];
             }
-            if (num + k <= 100) {
-                count += freq[num + k];
+            if (target2 >= 1 && target2 <= 100) {
+                count += freq[target2];
             }
 
             freq[num]++;
         }
+
         return count;
     }
 }
