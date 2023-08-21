@@ -16,6 +16,15 @@ public class Solution {
         }
 
         return result;
+//        int n = nums.length;
+//        int totalSum = (n * (n + 1)) / 2; // Сумма всех чисел от 0 до n
+//        int sumOfNums = 0; // Сумма чисел в массиве nums
+//
+//        for (int num : nums) {
+//            sumOfNums += num;
+//        }
+//
+//        return totalSum - sumOfNums;
     }
 
 }

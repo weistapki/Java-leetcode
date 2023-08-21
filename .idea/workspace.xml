@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="correction">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/missingNumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/missingNumber/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +139,7 @@
       <workItem from="1691944640510" duration="1867000" />
       <workItem from="1692112259432" duration="1019000" />
       <workItem from="1692374365464" duration="2864000" />
-      <workItem from="1692554620331" duration="1020000" />
+      <workItem from="1692554620331" duration="2196000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -248,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692376631503</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added Missing Number">
+      <created>1692555715663</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692555715663</updated>
+    </task>
+    <task id="LOCAL-00017" summary="correction">
+      <created>1692555856779</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692555856780</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +281,7 @@
     <MESSAGE value="added Valid Parentheses" />
     <MESSAGE value="added Same Tree" />
     <MESSAGE value="added count number of pairs with absolute difference k" />
+    <MESSAGE value="added Missing Number" />
     <MESSAGE value="correction" />
     <option name="LAST_COMMIT_MESSAGE" value="correction" />
   </component>
