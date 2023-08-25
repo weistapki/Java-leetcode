@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="added task Single Number">
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="correct">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,7 @@
       <workItem from="1692554620331" duration="2196000" />
       <workItem from="1692640141017" duration="130000" />
       <workItem from="1692717426376" duration="809000" />
-      <workItem from="1692816916606" duration="1247000" />
+      <workItem from="1692816916606" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -279,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692717632415</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="correct">
+      <created>1692818363774</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692818363774</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +308,7 @@
     <MESSAGE value="added Missing Number" />
     <MESSAGE value="correction" />
     <MESSAGE value="added task Single Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task Single Number" />
+    <MESSAGE value="correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct" />
   </component>
 </project>
