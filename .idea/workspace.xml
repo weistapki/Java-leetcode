@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="package task Fibonacci Number">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fibonacciNumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fibonacciNumber/Solution.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="the solution task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +145,8 @@
       <workItem from="1692640141017" duration="130000" />
       <workItem from="1692717426376" duration="809000" />
       <workItem from="1692816916606" duration="2651000" />
-      <workItem from="1692991548646" duration="4482000" />
+      <workItem from="1692991548646" duration="5407000" />
+      <workItem from="1693235226908" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692991693502</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="the solution task">
+      <created>1693145674216</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1693145674216</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +328,7 @@
     <MESSAGE value="added task Single Number" />
     <MESSAGE value="correct" />
     <MESSAGE value="package task Fibonacci Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="package task Fibonacci Number" />
+    <MESSAGE value="the solution task" />
+    <option name="LAST_COMMIT_MESSAGE" value="the solution task" />
   </component>
 </project>
