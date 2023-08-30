@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="the solution task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Solution.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,8 @@
       <workItem from="1692717426376" duration="809000" />
       <workItem from="1692816916606" duration="2651000" />
       <workItem from="1692991548646" duration="5407000" />
-      <workItem from="1693235226908" duration="849000" />
+      <workItem from="1693235226908" duration="1040000" />
+      <workItem from="1693418016615" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -302,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693145674216</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="init commit">
+      <created>1693236411680</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1693236411681</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +336,7 @@
     <MESSAGE value="correct" />
     <MESSAGE value="package task Fibonacci Number" />
     <MESSAGE value="the solution task" />
-    <option name="LAST_COMMIT_MESSAGE" value="the solution task" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
