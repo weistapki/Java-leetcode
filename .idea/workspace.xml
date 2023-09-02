@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="task output">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/majorityElement/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/containsDuplicate/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.containsDuplicate.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.missingNumber.Main" />
-      <module name="Java-leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.missingNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.example.majorityElement.Main">
     <configuration name="org.example.containsDuplicate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.containsDuplicate.Main" />
       <module name="Java-leetcode" />
@@ -101,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.majorityElement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.majorityElement.Main" />
+      <module name="Java-leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.majorityElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.example.singleNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.singleNumber.Main" />
       <module name="Java-leetcode" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.majorityElement.Main" />
         <item itemvalue="Application.org.example.containsDuplicate.Main" />
         <item itemvalue="Application.org.example.fibonacciNumber.Main" />
         <item itemvalue="Application.org.example.singleNumber.Main" />
         <item itemvalue="Application.org.example.countNumber.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +147,8 @@
       <workItem from="1692991548646" duration="5407000" />
       <workItem from="1693235226908" duration="1040000" />
       <workItem from="1693418016615" duration="6693000" />
+      <workItem from="1693511911527" duration="778000" />
+      <workItem from="1693678475473" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -316,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693418965673</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="task output">
+      <created>1693511994261</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1693511994261</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
