@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="task output">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/majorityElement/Main.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/anagram/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/anagram/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/anagram/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.majorityElement.Main">
-    <configuration name="org.example.containsDuplicate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.containsDuplicate.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.anagram.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.containsDuplicate.*" />
+          <option name="PATTERN" value="org.example.anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.countNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.countNumber.Main" />
+    <configuration name="org.example.containsDuplicate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.containsDuplicate.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.countNumber.*" />
+          <option name="PATTERN" value="org.example.containsDuplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.majorityElement.Main" />
         <item itemvalue="Application.org.example.containsDuplicate.Main" />
         <item itemvalue="Application.org.example.fibonacciNumber.Main" />
         <item itemvalue="Application.org.example.singleNumber.Main" />
-        <item itemvalue="Application.org.example.countNumber.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1693235226908" duration="1040000" />
       <workItem from="1693418016615" duration="6693000" />
       <workItem from="1693511911527" duration="778000" />
-      <workItem from="1693678475473" duration="676000" />
+      <workItem from="1693678475473" duration="5719000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -325,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693511994261</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="init commit">
+      <created>1693679315676</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1693679315677</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,8 +360,8 @@
     <MESSAGE value="correct" />
     <MESSAGE value="package task Fibonacci Number" />
     <MESSAGE value="the solution task" />
-    <MESSAGE value="init commit" />
     <MESSAGE value="task output" />
-    <option name="LAST_COMMIT_MESSAGE" value="task output" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
