@@ -1,6 +1,6 @@
 package org.example.polindrome;
 
-public class ValidPalindrome {
+public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
         String exampleOne = "A man, a plan, a canal: Panama";
