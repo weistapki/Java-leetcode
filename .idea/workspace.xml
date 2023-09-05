@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/anagram/Main.java" afterDir="false" />
+    <list default="true" id="0218ce5d-fac9-4dc2-93e0-5be0814a2a7c" name="Changes" comment="correction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/anagram/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/anagram/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/polindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/polindrome/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/polindrome/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/polindrome/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="vilka2" />
+        <entry key="$PROJECT_DIR$" value="vilka3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.example.polindrome.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.anagram.Main" />
       <module name="Java-leetcode" />
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.singleNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.singleNumber.Main" />
+    <configuration name="org.example.polindrome.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.polindrome.Main" />
       <module name="Java-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.singleNumber.*" />
+          <option name="PATTERN" value="org.example.polindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.polindrome.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.majorityElement.Main" />
         <item itemvalue="Application.org.example.containsDuplicate.Main" />
         <item itemvalue="Application.org.example.fibonacciNumber.Main" />
-        <item itemvalue="Application.org.example.singleNumber.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,8 @@
       <workItem from="1693235226908" duration="1040000" />
       <workItem from="1693418016615" duration="6693000" />
       <workItem from="1693511911527" duration="778000" />
-      <workItem from="1693678475473" duration="5719000" />
+      <workItem from="1693678475473" duration="7319000" />
+      <workItem from="1693936136925" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="task ValidAnagram">
       <created>1690901878427</created>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693679315677</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="correction">
+      <created>1693842959895</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693842959895</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,13 +363,13 @@
     <MESSAGE value="added Same Tree" />
     <MESSAGE value="added count number of pairs with absolute difference k" />
     <MESSAGE value="added Missing Number" />
-    <MESSAGE value="correction" />
     <MESSAGE value="added task Single Number" />
     <MESSAGE value="correct" />
     <MESSAGE value="package task Fibonacci Number" />
     <MESSAGE value="the solution task" />
     <MESSAGE value="task output" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction" />
   </component>
 </project>
