@@ -1,5 +1,5 @@
 # Java-leetcode
-ANAGRAM
+VALID ANAGRAM
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 Example 1:
@@ -12,7 +12,7 @@ Input: s = "rat", t = "car"
 Output: false
 
 -------------------------------
-PALINDROME
+VALID PALINDROME
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 Given a string s, return true if it is a palindrome, or false otherwise.
 Example 1:
